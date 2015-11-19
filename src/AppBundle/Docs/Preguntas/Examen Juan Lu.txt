@@ -1,0 +1,13 @@
+[RA1] Create a new project called 'm07-uf1-examen' and show the commands used to have it up running
+
+    1. Ir a la carpeta de projectos.
+        en mi caso ($HOME/Projectos/Symfony/)
+
+    2. comando: symfony new m07-uf1-examen
+
+    Fin. y ya esá creado el projecto solo es iniciar phpStorm y abrir el projecto.
+
+[RA2] CREAR
+en curso (no se cuantos se necesitan)
+
+[RA3]
